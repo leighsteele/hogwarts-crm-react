@@ -1,0 +1,133 @@
+a:hover {
+    text-decoration: none;
+}
+
+button {
+    border: none;
+    margin: 0 5px;
+    background-color: transparent;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+i {
+    background-color: transparent;
+}
+
+i:hover {
+    color: rgb(0, 89, 255);
+}
+
+h1 {
+    text-align: center;
+}
+
+h5 {
+    margin: 0;
+}
+
+.custom {
+    margin: 5rem auto;
+}
+
+.card {
+    width: 400px;
+}
+
+.modal-custom {
+    position: absolute;
+    z-index: 1;
+    background-color: #fefefe;
+    padding: 20px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 80%;
+}
+
+.progress {
+    height: 4px;
+}
+
+.profile-card {
+    width: 300px;
+}
+
+.profile-card-info {
+    height: 210px;
+    width: 350px;
+}
+
+.profile-card-info h5 {
+    margin-bottom: 10px;
+}
+
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.pop-up {
+    z-index: 1;
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -25%);
+}
+
+.custom-add {
+    width: 600px;
+}
+
+.btn-custom:hover {
+    color: rgb(0, 89, 255);
+}
+
+.house-img-container {
+    height: 360px;
+    width: 350px;
+    overflow: hidden;
+}
+
+.house-img {
+    width: 110%;
+    margin: 10px 0 0 -5px;
+}
+
+.custom-icon {
+    margin-right: 5px;
+    color: white;
+    background-color: black;
+    border: black solid 1px;
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+    font-size: 200%;
+}
+
+.navbar-custom {
+    background-color:rgb(163, 160, 246);
+    color: #ffffff;
+    padding: 32px;
+}
+
+.navbar-custom a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.chart {
+    height: 400px;
+}
+
+.profile-container {
+    width: 680px;
+}
+
+.logo {
+    height: 40px;
+}
